@@ -75,7 +75,7 @@ class wp_simple_location{
             'show_in_nav'       => true,
             'query_var'         => true,
             'hierarchical'      => false,
-            'supports'          => array('title','thumbnail','editor','page-attributes'),
+            'supports'          => array('title','thumbnail','editor'),
             'has_archive'       => true,
             'menu_position'     => 20,
             'show_in_admin_bar' => true,
