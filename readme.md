@@ -1,0 +1,1 @@
+#WordPress Simple Location Plugin#

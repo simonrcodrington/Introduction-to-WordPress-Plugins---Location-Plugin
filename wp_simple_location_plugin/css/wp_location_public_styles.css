@@ -1,0 +1,34 @@
+/*
+ * Wp Location Public Styles
+ * Styled used for the front-end of the website
+ */
+
+/*clearfix*/
+.cf:before,
+.cf:after {
+    content: " "; 
+    display: table; /
+}
+.cf:after {
+    clear: both;
+}
+
+/*location listing*/
+.location_list{
+	float: left;
+	width: 100%;
+}
+.location_list .location{
+	float: left;
+	width: 100%;
+}
+.location_list .location img{
+	margin: 0px 15px 15px 0px;
+	float: left;
+}
+.location_list .location .phone_email{
+	clear: both;
+}
+.location_list .location .readmore{
+	
+}

@@ -1,0 +1,28 @@
+/*
+ * Wp Location Admin Styles
+ * Styled used for the back-end of the website
+ */
+
+.field-container{
+
+}
+.field-container .field{
+	margin-bottom: 10px;
+}
+.field-container label,
+.field-container small,
+.field-container input,
+.field-container textarea{
+	display: block;
+}
+.field-container label{
+	margin-bottom: 3px;
+}
+.field-container small{
+	margin-bottom: 3px;
+}
+.field-container input,
+.field-container textarea{
+	max-width: 300px;
+	width: 100%;
+}
